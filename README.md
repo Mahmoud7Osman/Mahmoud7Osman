@@ -15,7 +15,7 @@ C/C++
 Dart
 Python
 Solidity
-Pine Script
+PineScript
 Shell Programming
 </pre>
 Thank You <3
