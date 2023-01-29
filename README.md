@@ -1,3 +1,4 @@
+<h3>Top Skills</h3>
 <pre>
 Mobile Application Developer    <b>(Android And iOS)</b>
 Desktop Application Developer   <b>(Windows, Linux And Mac)</b>
@@ -6,11 +7,14 @@ LinuxShell Expert
 Database Developer, Manager And Engineer <b>(MySQL And PostgreSQL)</b>
 Smart Contract And Blockchain Developer
 MQL5 Financial Robots Developer
+IoT Developer
 </pre>
+<h3>Programming Languages</h3>
 <pre>
 C/C++
 Dart
 Python
 Solidity
 Pine Script
+Shell Programming
 </pre>
