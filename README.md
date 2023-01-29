@@ -5,4 +5,12 @@ Django Expert Backend Developer
 LinuxShell Expert
 Database Developer, Manager And Engineer <b>(MySQL And PostgreSQL)</b>
 Smart Contract And Blockchain Developer
+MQL5 Financial Robots Developer
+</pre>
+<pre>
+C/C++
+Dart
+Python
+Solidity
+Pine Script
 </pre>
