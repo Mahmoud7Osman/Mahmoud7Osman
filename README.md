@@ -3,7 +3,6 @@
 Mobile Application Developer
 Desktop Application Developer
 Django Backend Developer
-Linux Expert
 Database Developer
 IoT Developer
 Pinescript Developer For Tradingview
