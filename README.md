@@ -14,5 +14,4 @@ Linux Advanced Low-Level Development
 Developing IoT Projects On <b>Linux</b> Boards Like RaspberryPi And OrangePi
 Cooperating Python/Dart With C/C++ To Create Super-Powerful Solutions
 C++MQL5 Trading Strategy Development
-PineScript Automation On Tradingview
-<pre>
+PineScript Automation On Tradingview<pre>
