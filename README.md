@@ -2,7 +2,7 @@
 <pre>
 Mobile Application Developer
 Desktop Application Developer
-Django Backend Developer
+Backend Developer
 Database Developer
 IoT Developer
 </pre>
