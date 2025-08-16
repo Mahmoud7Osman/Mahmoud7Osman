@@ -1,5 +1,5 @@
-Hello world, this is my public github account.
+# Hello, I am a Senior Software Engineer With focus on AI and ML
 
-My Private account for private contributions: <a href=https://github.com/Mahmoud6Osman>Mahmoud6Osman</a>
+This is my Public GitHub profile.
 
-See you...
+Private Account for Private contributions: [Mahmoud6Osman](https://github.com/Mahmoud6Osman)  
